@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GeniusGroups/GeniusPay/main/public/assets/logo-white.svg" alt="GeniusPay" width="120" />
+<img src="https://geniuspay.ci/assets/logo-white.svg" alt="GeniusPay" width="120" />
 
 # GeniusPay
 
