@@ -232,23 +232,6 @@ GeniusPay is not a single application — it's a **vertically integrated ecosyst
 
 ---
 
-## Providers de paiement supportés
-
-| Provider | Type | Pays couverts |
-|----------|------|---------------|
-| **Paystack** | Cartes + Mobile Money | NG, GH, CI, ZA, KE |
-| **Wave** | Wallet | SN, CI |
-| **PawaPay** | Mobile Money Multi-Pays | 12+ pays africains |
-| **CinetPay** | Mobile Money + Cartes | CI, SN, CM, BF, TG… |
-| **Stripe** | Cartes internationales | Global |
-| **PaiementPro** | Mobile Money | CI |
-| **PAL** | Wallet local | CI |
-| **Orange Money** | Mobile Money | CI, SN, ML… |
-| **MTN MoMo** | Mobile Money | CI, UG, CM, RW… |
-| **Moov Money** | Mobile Money | CI, BF, TG… |
-
----
-
 ## Stack technique globale
 
 | Couche | Technologies |
