@@ -33,9 +33,6 @@
 > **Our mission:** Become the financial rails that power every transaction in Africa —
 > from the street vendor accepting their first mobile payment to the enterprise processing millions.
 
-<br />
-
-Made with ❤️ in Abidjan, Côte d'Ivoire 🇨🇮
 
 </div>
 
