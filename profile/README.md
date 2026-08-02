@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://geniuspay.ci/assets/logo-white.svg" alt="GeniusPay" width="120" />
+<img src="https://raw.githubusercontent.com/GeniusGroups/GeniusPay/main/public/assets/logo-white.svg" alt="GeniusPay" width="120" />
 
 # GeniusPay
 
-### L'infrastructure de paiement qui propulse l'Afrique
+### The Payment Operating System for Africa
+
+<p>
+  <em>Building the most comprehensive payment infrastructure on the continent.</em>
+</p>
 
 [![Website](https://img.shields.io/badge/🌐_geniuspay.ci-0066FF?style=for-the-badge)](https://geniuspay.ci)
 [![Admin](https://img.shields.io/badge/📊_Dashboard-6366f1?style=for-the-badge)](https://app.geniuspay.ci)
@@ -13,10 +17,23 @@
 
 <br />
 
-**Le produit phare de [GENIUS GROUPS SAS](https://geniusgroups.ci) — opéré par [GeniusPay, INC.](https://geniuspay.ci)**
+**A [GENIUS GROUPS SAS](https://geniusgroups.ci) company — operated by [GeniusPay, INC.](https://geniuspay.ci)**
 
-Une infrastructure de paiement multi-provider, multi-pays et multi-devises conçue pour le marché africain.
-Smart Routing, Webhook Gateway dédiée, Wallet, Cash-Out, KYC/KYB, Subscriptions, Merchant API, CRM OS — tout dans une seule plateforme.
+<br />
+
+<table>
+<tr>
+<td align="center">🌍 <b>1.4B people</b><br/><sub>addressable market</sub></td>
+<td align="center">📱 <b>$1.3T</b><br/><sub>mobile money by 2030</sub></td>
+<td align="center">🚀 <b>20+ services</b><br/><sub>shipping in production</sub></td>
+<td align="center">🇨🇮 <b>Abidjan</b><br/><sub>built in Africa, for Africa</sub></td>
+</tr>
+</table>
+
+<br />
+
+> **Our mission:** Become the financial rails that power every transaction in Africa —
+> from the street vendor accepting their first mobile payment to the enterprise processing millions.
 
 <br />
 
@@ -26,9 +43,90 @@ Made with ❤️ in Abidjan, Côte d'Ivoire 🇨🇮
 
 ---
 
-## Vue d'ensemble
+## The Opportunity
 
-GeniusPay n'est pas une seule application — c'est un **écosystème de 20+ services** qui travaillent ensemble pour former une plateforme de paiement complète, du traitement des transactions au support client, en passant par l'onboarding marchand, la surveillance temps réel et les SDK multi-plateformes.
+### Why Africa, Why Now
+
+Africa is the **fastest-growing mobile money market in the world**. The continent processes over **$700B annually** in mobile money transactions, growing 20%+ year-over-year. Yet payment infrastructure remains fragmented across:
+
+- **50+ countries**, each with different currencies, regulations, and providers
+- **20+ mobile money operators** (Orange, MTN, Wave, Moov, Airtel, Safaricom…)
+- **No unified API layer** — merchants must integrate each provider separately
+- **Sub-30% card penetration** — mobile money is the dominant rail, not cards
+
+### The Problem We Solve
+
+Every African merchant faces the same nightmare:
+
+1. **Fragmentation** — 10+ payment providers, each with its own API, webhook format, and dashboard
+2. **No reconciliation** — matching transactions across providers is manual and error-prone
+3. **No wallet** — consumers can't store funds; every payment requires a fresh USSD flow
+4. **No onboarding** — KYC/KYB processes are paper-based and take weeks
+5. **No support tooling** — customer service teams have no unified view of transactions
+
+### Our Answer: One Platform, Every Rail
+
+GeniusPay is a **single integration** that gives merchants access to every payment method in Africa — with built-in reconciliation, wallet, KYC, subscriptions, CRM, and developer tooling that rivals Stripe.
+
+---
+
+## Vision: The Path to Unicorn
+
+<div align="center">
+
+```
+  ┌─────────────────────────────────────────────────────────────────┐
+  │                     THE GENIUSPAY THESIS                        │
+  │                                                                 │
+  │  Stripe unified payments in the US → $70B valuation             │
+  │  Adyen unified payments in Europe → $50B valuation              │
+  │  PhonePe unified payments in India → $12B valuation             │
+  │                                                                 │
+  │  Nobody has unified payments in Africa yet.                     │
+  │                                                                 │
+  │  That's what GeniusPay is building.                             │
+  └─────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+### What Makes Us Different
+
+| Moat | Description |
+|------|-------------|
+| **Multi-provider orchestration** | 10+ payment providers unified behind a single API — no competitor in West Africa offers this breadth |
+| **Smart Routing engine** | Automatic provider selection based on cost, success rate, and latency — reduces transaction failure by up to 40% |
+| **Wallet + Identity layer** | Genius Wallet (PWA) + GeniusAuth (OIDC/Passkeys) create a network effect — every new user increases value for every merchant |
+| **Full-stack ecosystem** | Not just payments: CRM OS, KYC/KYB onboarding, partner commissions, certification program, FX rates, invoicing — all native |
+| **Developer-first** | 5 SDKs (Flutter, React, Laravel, WooCommerce, GeniusAuth) + API Playground + MCP Server for AI-assisted integration |
+| **Built in Africa** | Team based in Abidjan — we understand the market, the regulators, and the users better than any foreign player |
+
+### Business Model
+
+| Revenue stream | Mechanism |
+|----------------|-----------|
+| **Transaction fees** | 1.5–3.5% per transaction (volume-based pricing) |
+| **Subscription tiers** | SaaS plans for CRM, analytics, advanced features |
+| **Wallet float** | Interest on stored balances (Genius Wallet) |
+| **Partner commissions** | Revenue share with distribution partners |
+| **FX margin** | Spread on currency conversions (GeniusFX) |
+| **Certification** | Premium training & certification for merchants |
+| **Enterprise contracts** | Custom integrations for banks & telcos |
+
+### Traction & Growth Signals
+
+- **20+ services** already shipping in production — not a prototype, a real platform
+- **10+ payment providers** integrated and live (Paystack, Wave, PawaPay, CinetPay, Stripe, PaiementPro, Orange, MTN, Moov, PAL)
+- **5 SDKs** published across pub.dev, npm, and Packagist
+- **Multi-market ready** — Côte d'Ivoire live, expansion planned for Senegal, Benin, Togo, Burkina Faso, Mali
+- **Self-hosted infrastructure** — Coolify + Docker, keeping cloud costs 10x lower than AWS-native competitors
+- **AI-native operations** — MCP Server, DIA voice assistant, AI-powered ticket classification
+
+---
+
+## The Ecosystem
+
+GeniusPay is not a single application — it's a **vertically integrated ecosystem of 20+ services** covering the entire payment lifecycle: from transaction processing to merchant onboarding, customer support, developer tooling, and financial infrastructure.
 
 ### Architecture de l'écosystème
 
@@ -184,22 +282,59 @@ GeniusPay n'est pas une seule application — c'est un **écosystème de 20+ ser
 
 ---
 
-## Roadmap
+## Roadmap to Scale
 
-- [ ] **AI Fraud Detection** — détection de fraude en temps réel (ML)
-- [ ] **Multi-tenant** — support white-label pour partenaires
-- [ ] **Real-time dashboard** — WebSocket pour monitoring live
-- [ ] **Provider failover** — bascule automatique entre providers en cas d'incident
-- [ ] **Settlement engine** — calcul automatique des règlements marchand
-- [ ] **PCI-DSS** — certification pour traitement cartes
-- [ ] **GeniusPay Certify** — parcours certifiant marchands (Next.js + Judge0)
-- [ ] **GeniusFX** — API de taux de change BCEAO en production
+### Phase 1 — Dominate West Africa (2025–2026)
+
+- [x] Core payment platform live in Côte d'Ivoire
+- [x] 10+ payment providers integrated
+- [x] Wallet PWA with biometric authentication
+- [x] CRM OS for merchant support
+- [x] 5 SDKs published (Flutter, React, Laravel, WooCommerce, GeniusAuth)
+- [ ] **AI Fraud Detection** — real-time ML-based fraud scoring
+- [ ] **Provider failover** — automatic failover between providers on incident
+- [ ] **Settlement engine** — automated merchant settlement calculation
+- [ ] **GeniusPay Certify** — merchant certification program (Next.js + Judge0)
+- [ ] **GeniusFX** — BCEAO exchange rate API in production
+- [ ] **Multi-country expansion** — Senegal, Benin, Togo, Burkina Faso, Mali
+
+### Phase 2 — Pan-African Scale (2026–2027)
+
+- [ ] **20+ countries** live across West, East, and Central Africa
+- [ ] **Multi-tenant** — white-label platform for banks & telcos
+- [ ] **PCI-DSS Level 1** — certification for card processing
+- [ ] **Real-time dashboard** — WebSocket-based live monitoring
+- [ ] **1M+ active merchants** on the platform
+- [ ] **$1B+ annual transaction volume**
+
+### Phase 3 — The Unicorn (2027–2028)
+
+- [ ] **Series A → B** — raise institutional capital at unicorn valuation
+- [ ] **B2B2C network** — Genius Wallet as the default consumer payment identity
+- [ ] **Lending & BNPL** — leverage transaction data for merchant credit scoring
+- [ ] **Cross-border payouts** — enable merchants to pay suppliers across Africa
+- [ ] **$10B+ annual transaction volume**
+- [ ] **IPO-ready** — regulatory compliance, audited financials, governance
+
+---
+
+## Why We'll Win
+
+1. **We're not building a feature — we're building infrastructure.** Payment providers come and go. GeniusPay sits above them all, routing intelligently, reconciling automatically, and owning the merchant relationship.
+
+2. **We own the full stack.** From the wallet on the consumer's phone to the CRM on the merchant's desk to the webhook gateway in the back — no competitor in Africa has this depth.
+
+3. **We're developer-obsessed.** 5 SDKs, an API playground, an MCP server for AI-assisted integration, and a certification program. We're building the Stripe-level developer experience that Africa has never had.
+
+4. **We're born in Africa.** Our team lives the problems we solve. We understand Wave, Orange Money, MTN MoMo — not as API docs, but as daily reality.
+
+5. **We're capital-efficient.** Self-hosted on Coolify, Docker-native, lean team. We ship like a 100-person company with 10. That's how you build a unicorn without burning $100M.
 
 ---
 
 ## Organisation
 
-**GeniusPay** est développé et opéré par **GeniusPay, INC.**, filiale de **GENIUS GROUPS SAS**.
+**GeniusPay** is developed and operated by **GeniusPay, INC.**, a subsidiary of **GENIUS GROUPS SAS**.
 
 - 🏢 **GENIUS GROUPS SAS** — [geniusgroups.ci](https://geniusgroups.ci)
 - 🏦 **GeniusPay, INC.** — [geniuspay.ci](https://geniuspay.ci)
@@ -210,6 +345,8 @@ GeniusPay n'est pas une seule application — c'est un **écosystème de 20+ ser
 
 <div align="center">
 
-**GeniusPay** — *L'infrastructure de paiement qui propulse l'Afrique.*
+**GeniusPay** — *The Payment Operating System for Africa.*
+
+*Building the next African unicorn — one transaction at a time.* 🦄
 
 </div>
